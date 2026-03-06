@@ -1,5 +1,5 @@
 {
-	"name": "hash-map",
+	"name": "knights-travails",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -8,16 +8,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jose-g315/hash-map.git"
+		"url": "git+https://github.com/jose-g315/knights-travails.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"type": "module",
 	"bugs": {
-		"url": "https://github.com/jose-g315/hash-map/issues"
+		"url": "https://github.com/jose-g315/knights-travails/issues"
 	},
-	"homepage": "https://github.com/jose-g315/hash-map#readme",
+	"homepage": "https://github.com/jose-g315/knights-travails#readme",
 	"devDependencies": {
 		"@babel/preset-env": "^7.29.0",
 		"@biomejs/biome": "2.4.3",
