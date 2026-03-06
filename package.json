@@ -1,0 +1,29 @@
+{
+	"name": "hash-map",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jose-g315/hash-map.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/jose-g315/hash-map/issues"
+	},
+	"homepage": "https://github.com/jose-g315/hash-map#readme",
+	"devDependencies": {
+		"@babel/preset-env": "^7.29.0",
+		"@biomejs/biome": "2.4.3",
+		"jest": "^30.2.0"
+	},
+	"overrides": {
+		"minimatch": "^10.2.1"
+	}
+}
