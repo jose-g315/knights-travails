@@ -54,6 +54,4 @@ const validMoves = [
 	[-1, 2],
 ];
 
-console.log(knightMoves([0, 0], [7, 7]));
-
 export { knightMoves, isValid };
